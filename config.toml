@@ -1,0 +1,5 @@
+baseURL = "https://www.ragiano215.github.io"
+languageCode = "en-us"
+title = "Rambert's Dabblings"
+theme = "ananke"
+publishDir = "docs"
