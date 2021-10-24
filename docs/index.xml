@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rambert&#39;s Dabblings</title>
+    <link>https://www.ragiano215.github.io/</link>
+    <description>Recent content on Rambert&#39;s Dabblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Oct 2021 16:02:11 -0400</lastBuildDate><atom:link href="https://www.ragiano215.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test 0</title>
+      <link>https://www.ragiano215.github.io/dummy/test-0/</link>
+      <pubDate>Sun, 24 Oct 2021 16:02:11 -0400</pubDate>
+      
+      <guid>https://www.ragiano215.github.io/dummy/test-0/</guid>
+      <description>First Post Hello World</description>
+    </item>
+    
+  </channel>
+</rss>
